@@ -1,0 +1,30 @@
+.heads h1{
+    border-left: 5px solid #22972b;
+    padding: 9px;
+    margin-left: 5em;
+    font-size: xx-large;
+}
+.imgdiv{
+    height: 5em;
+}
+.lastcontainer{
+    padding: 5em;
+    position: sticky bottom;
+}
+.bordertop{
+    border-top: 2px solid #126e1a;
+}
+li{
+    list-style: none;
+}
+.seconddiv{
+    position: relative;
+    background-color: #F4EEA9;
+    border: 1px;
+    padding: 5em;
+}
+.copyright{
+    position: absolute;
+    bottom: 0.3em;
+    left: 4em;
+}

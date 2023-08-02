@@ -1,0 +1,57 @@
+.container {
+   height: 100%;
+   position: relative;
+  }
+.parentImg{
+    height: 30em;
+    display: block;
+    position:relative;
+   top: 10em;
+    left: 10px;
+    z-index: 1;
+}
+.imgOne{
+    top: 23%;
+    left: 6em;
+    height: 30em;
+    position: absolute;
+    z-index: 2;
+   
+}
+.imgTwo{
+    height: 12em;
+    width: 15em;
+    top: 25%;
+    left: 12%;
+    position: absolute;
+    z-index: 3;
+}
+.imgThree{
+    height: 27em;
+    top: 25%;
+    left: 35%;
+    position: absolute;
+    z-index: 3;
+}
+.imgFour{
+    width: 15em;
+    height: 12em;
+    left: 12%;
+    top: 70%;
+    position: absolute;
+    z-index: 3;
+}
+.heads h1{
+    border-left: 5px solid #22972b;
+    padding: 9px;
+    margin-left: 5em;
+   
+}
+.texts{
+    position: absolute;
+    font-weight: 700;
+    height: 10em;
+    width: 30em;
+    top: 30%; 
+    left: 45em; 
+}

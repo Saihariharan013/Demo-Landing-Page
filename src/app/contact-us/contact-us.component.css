@@ -1,0 +1,51 @@
+.heads h1{
+    font-size: xx-large;
+    border-left: 5px solid #22972b;
+    padding: 9px;
+    margin-left: 5em;
+}
+.container{
+    height: 35em;
+    width: 45em;
+    background-color: #A7C8AB;
+    border-radius: 10px;
+    margin-top: 3em;
+    margin-bottom: 4em;
+}
+.email input{
+   height: 3em;
+   padding: 5px;
+   text-align: start;
+   border: none;
+   border-radius: 10px;
+} 
+.message textarea{
+    height: 10em;
+    padding: 5px;
+   text-align: top;
+   border: none;
+   border-radius: 10px;
+}
+.position{
+    text-align: center;
+}
+.btn{
+    height: 3em;
+    margin-left: 5em;
+}
+.lastbtn{
+    margin-left: 5em;
+    margin-top: 2em;
+    background-color: white;
+    border-radius: 15px;
+}
+.imgstyle{
+    position: absolute;
+    left: -42em;
+    top: 10em;
+}
+.imgstyle2{
+    position: absolute;
+    right: -49em;
+    top: -4em;
+}
